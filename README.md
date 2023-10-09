@@ -1,3 +1,6 @@
+
+[![Recovery Build](https://github.com/juic3b0x/Action-OFRP-Builder/actions/workflows/Recovery%20Build.yml/badge.svg)](https://github.com/juic3b0x/Action-OFRP-Builder/actions/workflows/Recovery%20Build.yml)
+
 # Build Recovery using Github Actions
 
 - Support OrangeFox, [TWRP](https://github.com/azwhikaru/Action-TWRP-Builder) is here
